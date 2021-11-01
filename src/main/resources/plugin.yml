@@ -1,0 +1,8 @@
+name: Gauth
+author: Arad119
+version: 1.0
+main: fr.arad119.gauth.Core
+commands:
+  auth:
+    syntax: /auth code | /auth enable | /auth disable
+    description: authentification from google auth
